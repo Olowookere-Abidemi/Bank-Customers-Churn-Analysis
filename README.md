@@ -97,7 +97,6 @@ This project analyzes customer churn within a dataset of 10,000 bank customers. 
 7. **Region-Specific Research:**  
    - Investigate factors driving churn in Germany and France to inform localized strategies.
 
----
 
 ## **Conclusion**
 
